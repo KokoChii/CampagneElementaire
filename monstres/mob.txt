@@ -1,0 +1,24 @@
+Dragon ancestral
+
+Boss puissant, peut donner des ecailles ancestrale.
+Ecaille ancestrale permet de craft "ailes ancestrales"
+
+Vyakiss
+
+Femme vampire, monstre qui peut etre vaincu dans toute la campagne.
+Donne de moyenne ressources
+
+Devoreur
+
+Mort vivant, ont peux le trouver dans les bas niveau de campagne.
+donne peu de ressources
+
+Sorcière
+
+Monstre puissant donnant de puissante ressources
+
+Dragon élémentaire
+
+Dragon qui peu maitriser les élément suivant : eau, terre, feu, air, fourdre, sang
+peut etre dompter avec la quête "l'elementarisation" et necessite des potions et
+des appats pour dragon elementaires.

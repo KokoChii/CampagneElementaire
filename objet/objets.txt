@@ -1,0 +1,28 @@
+amulette elementaire :
+
+cette amulette permet de controler les elements suivant : eau, feu, air, terre
+Confère de la Puissance et du mana
+
+Anneau draconique :
+
+anneau permettant d'invoquer un dragon, chaque anneau a sa propre invocation
+
+Potion spectrale :
+
+Permet a l'utilisateur de devenir fantomatique, travers les unités et rend furtif
+Duree 25s
+
+Carte Legendaire :
+
+Carte donnant accès a 2 zones cachées d'une map, les composant et collectible sont doublé.
+C'est un collectible
+
+Toc du chef
+
+Toc augmentant la compétence cuisine de 60.
+Utilisable 1 fois
+
+Ailes ancestrales
+
+Ailes qui permettent de voler.
+Necessite de la poussière d'air, ecailles ancestrale, amulettre elementaire
